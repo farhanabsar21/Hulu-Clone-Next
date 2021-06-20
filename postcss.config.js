@@ -18,7 +18,7 @@ module.exports = {
   }
 
 {
-  "name": "MoodMap",
+  "name": "hulu-app",
   "version": "0.1.0",
   "private": true,
   "keywords": [
